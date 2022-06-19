@@ -1,0 +1,6 @@
+framework module Pods_AppDulichSwiftTests {
+  umbrella header "Pods-AppDulichSwiftTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

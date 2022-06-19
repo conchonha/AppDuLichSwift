@@ -7,8 +7,11 @@
 
 import UIKit
 
-class TableViewCell: UITableViewCell {
-
+class TableViewCell: UITableViewCell {    
+    @IBOutlet weak var userLable: UILabel!
+    @IBOutlet weak var idLable: UILabel!
+    
+    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code

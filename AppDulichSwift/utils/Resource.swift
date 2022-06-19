@@ -6,3 +6,7 @@
 //
 
 import Foundation
+
+enum Resource : String{
+    case email = "email"
+}

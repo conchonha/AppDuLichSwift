@@ -1,0 +1,6 @@
+framework module Pods_AppDulichSwift {
+  umbrella header "Pods-AppDulichSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
